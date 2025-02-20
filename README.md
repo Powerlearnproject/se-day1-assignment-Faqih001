@@ -24,11 +24,11 @@ Software engineering is the systematic application of engineering principles to 
 **Answer:**
 It addressed the "Software Crisis" and led to structured methodologies like the Waterfall model.
 
-### **4. How did Object-Oriented Programming (OOP) impact software development?**
+### **How did Object-Oriented Programming (OOP) impact software development?**
 **Answer:**
 OOP, introduced in the 1980s-1990s with languages like C++, Java, and Python, improved software modularity and reusability.
 
-### **5. What was the Agile Manifesto, and why was it significant?**
+### **What was the Agile Manifesto, and why was it significant?**
 **Answer:**
 Introduced in 2001, the Agile Manifesto emphasized iterative development, adaptability, and customer collaboration, revolutionizing software development.
 
